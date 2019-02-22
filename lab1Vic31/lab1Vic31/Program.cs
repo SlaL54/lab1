@@ -19,7 +19,7 @@ namespace lab1Vic31
             
             Console.WriteLine("Документацией занимались: ");
             Console.WriteLine("Икаев А.С.");
-            Console.WriteLine("Кравченко В.Д.");
+            Console.WriteLine("Кравченко В.Д."); 
             Console.WriteLine("Касимов И.А.");
             Console.WriteLine("Белов И.О.");
             Console.WriteLine("Ворожев Я.А.");
