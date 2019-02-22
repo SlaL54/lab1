@@ -14,7 +14,7 @@ namespace lab1Vic31
             Console.WriteLine("Абарин В.В.");
             Console.WriteLine("Булахов А.В.");
             Console.WriteLine("Коваленко А.В.");
-            Console.WriteLine("Гордиенко А. И.");
+            Console.WriteLine("Гордиенко А.И.");
             Console.WriteLine("Попов И.Ю.");
             
             Console.WriteLine("Документацией занимались: ");
@@ -33,3 +33,4 @@ namespace lab1Vic31
         }
     }
 }
+
